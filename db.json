@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "64fd",
+      "username": "test1",
+      "password": "$2a$05$5LfjFrfov2sVz77fMJ5wCevc5BEBtSfPcOvbawOtKsqUFp9vHZPE2",
+      "email": "test1@gmail.com",
+      "dob": "2024-01-25"
+    },
+    {
+      "id": "3e03",
+      "username": "ravi kumar",
+      "password": "$2a$05$Bb8f24MZhZ.XgVgz.yevbOrj7q3bwFm.rm1jFxP1p1e2NfKOAmdqu",
+      "email": "ravi@mail.com",
+      "dob": "1999-12-07"
+    },
+    {
+      "id": "1a2f"
+    },
+    {
+      "id": "069f",
+      "username": "test2",
+      "password": "$2a$05$leU4ERWWWAycfcligsOk2OsAyj1iotVSyf0nlNqihdMvlAhW5eONO",
+      "email": "test2@gmail.com",
+      "dob": "1999-07-21"
+    }
+  ]
+}
