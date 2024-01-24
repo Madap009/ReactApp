@@ -100,8 +100,9 @@ function SignupCard() {
               required
             />
           </div>
-   
+          <p>Already have An account<a href='/login'>Login</a></p>
           <button className="btn">Sign Up</button>
+
           
         </form>
       </div>

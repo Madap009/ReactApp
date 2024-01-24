@@ -6,7 +6,7 @@ function HomeCard() {
     <>
     <section className='homecard'>
      <div className='container'>
-     <div className="row">
+     <div className="ow">
                     <div id="heading">
                     {/* <h3>Welcome to CourseEdu</h3> */}
                     <h1>Best Online Education</h1>
@@ -28,15 +28,15 @@ function HomeCard() {
             <p>
 
           <div style={{display:'flex'}}>
-          <div className="linkss" >
-           <a className="text-light"  href="/signup">GET STARTED NOW
+         <div className="linkss" >
+           
 
-           </a>
+           <a className="text-light"  href="/signup">GET STARTED NOW</a>
            </div>
            <div className='linkss'>
-           <a className='text-light' href='/courses'>VIEW COURSES
-           
+          <a className='text-light' href='/courses'>VIEW COURSES
            </a>
+          
            </div>
           </div>
           
@@ -44,7 +44,7 @@ function HomeCard() {
           </p>
 
             </div>
-        
+      
     </section>
     </>
   )
